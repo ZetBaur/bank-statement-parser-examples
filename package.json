@@ -1,0 +1,30 @@
+{
+  "name": "bank-statement-parser-examples",
+  "version": "1.0.0",
+  "description": "Code examples for parsing PDF bank statements from Chase, Bank of America, Wells Fargo, and Capital One",
+  "main": "examples/parse-statement.js",
+  "scripts": {
+    "example": "node examples/parse-statement.js"
+  },
+  "keywords": [
+    "bank-statement",
+    "pdf-parser",
+    "chase",
+    "bank-of-america",
+    "wells-fargo",
+    "capital-one",
+    "quickbooks",
+    "accounting",
+    "pdf-to-excel"
+  ],
+  "author": "Bank Parser <support@bank-parser.com>",
+  "license": "MIT",
+  "homepage": "https://bank-parser.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bank-parser/bank-statement-parser-examples"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^4.0.379"
+  }
+}
