@@ -1,9 +1,9 @@
- # Bank Statement Parser Examples                                                                                                                                                 
-   
+# Bank Statement Parser Examples                                                                                                                                                 
+                                         
   Code examples for parsing PDF bank statements from major US banks into structured data.                                                                                          
+                                                                                                                                                                                   
+  ## Supported Banks                                                                                                                                                               
                                                             
-  ## Supported Banks
-
   | Bank | Checking | Credit Card | Formats |
   |------|----------|-------------|---------|
   | Chase | Yes | Yes | v1 (2015), v2 (2019), v3 (2024) |
@@ -134,7 +134,9 @@
 
   For production use with 99%+ accuracy, automatic bank detection, and QuickBooks-ready output:
 
-  Bank Parser - Handles all format variations, credit cards, and edge cases automatically.
+  https://bank-parser.com/?utm_source=github&utm_medium=referral&utm_campaign=readme
+
+  Handles all format variations, credit cards, and edge cases automatically.
 
   License
 
